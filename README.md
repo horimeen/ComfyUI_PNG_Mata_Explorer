@@ -4,10 +4,10 @@
 2、写入文件信息
 
 目前只支持png格式图片
-ScreenShot_2026-06-21_182114_325.png
+![image](https://github.com/horimeen/ComfyUI_PNG_Mata_Explorer/blob/main/ScreenShot_2026-06-21_182114_325.png)
 
 给其他格式的空白图片增加文件信息时可自动转换成png格式
-ScreenShot_2026-06-21_182225_168.png
+![image](https://github.com/horimeen/ComfyUI_PNG_Mata_Explorer/blob/main/ScreenShot_2026-06-21_182225_168.png)
 
 直接拖入图片，填写右侧的提示词或者工作流，点击下方的保存即可
-ScreenShot_2026-06-21_182400_465
+![image](https://github.com/horimeen/ComfyUI_PNG_Mata_Explorer/blob/main/ScreenShot_2026-06-21_182400_465.png)
